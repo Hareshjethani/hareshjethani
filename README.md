@@ -13,6 +13,6 @@ I am a Computer Science undergraduate at FAST–NUCES with a strong interest in 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hareshjethani&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=haresh kumar&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
